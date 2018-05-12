@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Aplicativo Login</string>
+    <string name="login">Realizar Login</string>
+    <string name="username">Nome do usuário</string>
+    <string name="password">Senha</string>
+    <string name="msg_ok">Login realizado com sucesso!</string>
+    <string name="msg_error">Usuário ou senha inválidos!</string>
+</resources>
